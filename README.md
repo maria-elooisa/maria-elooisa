@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil da Maria Eloisa 😁
+## Welcome to my profile 😁
 
  <div>
   <a href="https://github.com/maria-elooisa">
@@ -13,7 +13,7 @@
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue nas redes abaixo!
+  ### For programming content, follow me on the networks below!
  
 <div> 
   <a href="mariaelooisa1011@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
