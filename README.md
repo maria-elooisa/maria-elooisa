@@ -1,5 +1,5 @@
 ## Welcome to my profile 😁
- <img src="https://giphy.com/embed/L1R1tvI9svkIWwpVYr" width="480" height="270" frameBorder="0" allowFullScreen></img><p>
+ <img src="https://giphy.com/embed/L1R1tvI9svkIWwpVYr"></img>
  
  <div>
   <a href="https://github.com/maria-elooisa">
