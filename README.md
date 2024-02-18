@@ -1,5 +1,6 @@
 ## Welcome to my profile 😁
- <iframe src="https://giphy.com/embed/L1R1tvI9svkIWwpVYr" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr">via GIPHY</a></p>
+ <img src="https://giphy.com/embed/L1R1tvI9svkIWwpVYr" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img><p>
+ <a href="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr">via GIPHY</a></p>
  <div>
   <a href="https://github.com/maria-elooisa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maria-elooisa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
