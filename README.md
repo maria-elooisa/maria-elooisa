@@ -1,9 +1,6 @@
 ## Welcome to my profile 😁
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;">
- <img src="https://giphy.com/embed/L1R1tvI9svkIWwpVYr" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen>
-</img></div>
-
-<p><a href="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr">via GIPHY</a></p>
+ <img src="[https://giphy.com/embed/L1R1tvI9svkIWwpVYr](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDZobzRsa3VscHgyMjMxdXJoNXByanhrOG5ra20xMjB1bzdzZDl5ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif)" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen>
+</img>
  
  <div>
   <a href="https://github.com/maria-elooisa">
