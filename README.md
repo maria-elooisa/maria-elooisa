@@ -20,20 +20,3 @@
   <a href="mailto:mariaelooisa1011@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/maria-eloisa-da-silva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
-### Visit Counter
-<div>
-  <p id="visitCount">Page Views: 0</p>
-  <script>
-    if (typeof localStorage !== 'undefined') {
-      let count = localStorage.getItem('page_view');
-      if (!count) {
-        count = 1;
-      } else {
-        count = parseInt(count) + 1;
-      }
-      localStorage.setItem('page_view', count);
-      document.getElementById('visitCount').innerText = 'Page Views: ' + count;
-    }
-  </script>
-</div>
