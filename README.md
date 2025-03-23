@@ -8,7 +8,7 @@
 
 ### 👩‍💻 About Me  
 🎓 **Engineering Student at FIAP**  
-🔧 Specializing in **Automation, Front-End Development, and Problem-Solving**  
+🔧 Specializing in **Automation, Front-End Development, Problem-Solving, and Data Analysi**  
 💡 Passionate about **Technology, Continuous Learning, and Innovation**  
 🤝 Committed to **Team Collaboration and Delivering Results**
 
@@ -29,6 +29,7 @@
   <img align="center" alt="CSS" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="JavaScript" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Java" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
 
 ---
