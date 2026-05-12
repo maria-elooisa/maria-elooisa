@@ -15,15 +15,6 @@
 
 ---
 
-<div align="center">
-  <a href="https://github.com/maria-elooisa">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maria-elooisa&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maria-elooisa&layout=compact&langs_count=6&theme=highcontrast" alt="Most Used Languages"/>
-  </a>
-</div>
-
----
-
 ### 🛠️ Skills  
 <div style="display: flex; justify-content: center;">
   <img align="center" alt="Python" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
