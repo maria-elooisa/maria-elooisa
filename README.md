@@ -1,4 +1,4 @@
-# Welcome to My Profile! 🌟  
+# Welcome to My Profile! 🌟
 
 <div align="center">
   <img height="180em" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDZobzRsa3VscHgyMjMxdXJoNXByanhrOG5ra20xMjB1bzdzZDl5ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Profile GIF"/>
@@ -6,39 +6,56 @@
 
 ---
 
-### 👩‍💻 About Me  
-🎓 **Engineering Student at FIAP**  
-💼 Experienced in **Automation** and **Front-End Development**  
-📊 Currently focused on **Data Science**, exploring insights through data and building intelligent solutions  
-💡 Passionate about **Technology**, **Continuous Learning**, and **Innovation**  
-🤝 Driven by **Team Collaboration** and a strong commitment to **Delivering Results**
+### 👩‍💻 About Me
+
+🎓 **Engineering Student at FIAP**
+
+💼 Building on my professional experience at **IBM**, where I strengthened my skills in technology, innovation, and collaborative problem-solving
+
+📊 Focused on **Data Science** and the application of **Machine Learning models** to create intelligent solutions that improve people's daily lives
+
+🏆 Passionate about taking on new challenges, with multiple awards earned through **FIAP Challenges**
+
+☁️ Certified in cloud technologies by **Microsoft Azure** and **Amazon Web Services (AWS)**
+
+💡 Driven by **Technology**, **Continuous Learning**, **Innovation**, and the desire to generate a positive impact through data
+
+🤝 Committed to **Team Collaboration**, solving real-world problems, and delivering meaningful results
 
 ---
 
-### 🛠️ Skills  
-<div style="display: flex; justify-content: center;">
-  <img align="center" alt="Python" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="JavaScript" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Java" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="HTML" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+### 🛠️ Skills
+
+<div align="center">
+  <img alt="Python" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img alt="Pandas" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
+  <img alt="NumPy" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg">
+  <img alt="Scikit-learn" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg">
+  <img alt="Jupyter" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg">
+  <img alt="Microsoft Azure" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
+  <img alt="Amazon Web Services" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+  <img alt="Java" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
 
 ---
 
-### 💬 Connect with Me  
-<div align="center"> 
-  <a href="mailto:mariaelooisa1011@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Email-%23c38199?style=for-the-badge&logo=gmail&logoColor=white&labelColor=#9f7161" alt="Email"/>
+### 💬 Connect with Me
+
+<div align="center">
+  <a href="mailto:mariaelooisa1011@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-%23c38199?style=for-the-badge&logo=gmail&logoColor=white&labelColor=%239f7161" alt="Email"/>
   </a>
-  <a href="https://www.linkedin.com/in/maria-eloisa-da-silva" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%239f7161?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=#c38199" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/maria-eloisa-da-silva">
+    <img src="https://img.shields.io/badge/-LinkedIn-%239f7161?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=%23c38199" alt="LinkedIn"/>
   </a>
 </div>
 
 ---
 
-### 🎯 Goals  
-- 🌱 Currently learning **JavaScript** and **ReactJS**  
-- 🚀 Aiming to contribute to impactful projects in **Tech Companies**  
-- 📚 Passionate about bridging the gap between **Engineering** and **Technology**
+### 🎯 Goals
+
+- 🤖 Deepen my knowledge of **Data Science**, **Machine Learning**, and **Artificial Intelligence**
+- 🌍 Develop data-driven solutions that make technology more useful and positively impact people's lives
+- 🚀 Contribute to innovative and impactful projects in the technology industry
+- 🏆 Continue participating in challenges that transform real-world problems into creative solutions
+- 📚 Connect **Engineering**, **Data**, and **Cloud Computing** to build scalable intelligent solutions
