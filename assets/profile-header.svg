@@ -1,61 +1,50 @@
-# Welcome to My Profile! 🌟
-
-<div align="center">
-  <img height="180em" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDZobzRsa3VscHgyMjMxdXJoNXByanhrOG5ra20xMjB1bzdzZDl5ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Profile GIF"/>
-</div>
-
----
-
-### 👩‍💻 About Me
-
-🎓 **Engineering Student at FIAP**
-
-💼 Building on my professional experience at **IBM**, where I strengthened my skills in technology, innovation, and collaborative problem-solving
-
-📊 Focused on **Data Science** and the application of **Machine Learning models** to create intelligent solutions that improve people's daily lives
-
-🏆 Passionate about taking on new challenges, with multiple awards earned through **FIAP Challenges**
-
-☁️ Certified in cloud technologies by **Microsoft Azure** and **Amazon Web Services (AWS)**
-
-💡 Driven by **Technology**, **Continuous Learning**, **Innovation**, and the desire to generate a positive impact through data
-
-🤝 Committed to **Team Collaboration**, solving real-world problems, and delivering meaningful results
-
----
-
-### 🛠️ Skills
-
-<div align="center">
-  <img alt="Python" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img alt="Pandas" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
-  <img alt="NumPy" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg">
-  <img alt="Scikit-learn" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg">
-  <img alt="Jupyter" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg">
-  <img alt="Microsoft Azure" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
-  <img alt="Amazon Web Services" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
-  <img alt="Java" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-</div>
-
----
-
-### 💬 Connect with Me
-
-<div align="center">
-  <a href="mailto:mariaelooisa1011@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-%23c38199?style=for-the-badge&logo=gmail&logoColor=white&labelColor=%239f7161" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/maria-eloisa-da-silva">
-    <img src="https://img.shields.io/badge/-LinkedIn-%239f7161?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=%23c38199" alt="LinkedIn"/>
-  </a>
-</div>
-
----
-
-### 🎯 Goals
-
-- 🤖 Deepen my knowledge of **Data Science**, **Machine Learning**, and **Artificial Intelligence**
-- 🌍 Develop data-driven solutions that make technology more useful and positively impact people's lives
-- 🚀 Contribute to innovative and impactful projects in the technology industry
-- 🏆 Continue participating in challenges that transform real-world problems into creative solutions
-- 📚 Connect **Engineering**, **Data**, and **Cloud Computing** to build scalable intelligent solutions
+<svg width="1200" height="330" viewBox="0 0 1200 330" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="background" x1="42" y1="18" x2="1150" y2="330" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#160B2D"/>
+      <stop offset="0.5" stop-color="#2E1065"/>
+      <stop offset="1" stop-color="#4C1D95"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="720" y1="40" x2="1120" y2="280" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#C4B5FD"/>
+      <stop offset="1" stop-color="#7C3AED"/>
+    </linearGradient>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="7" result="blur"/>
+      <feComposite in="SourceGraphic" in2="blur" operator="over"/>
+    </filter>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M 34 0 L 0 0 0 34" fill="none" stroke="#A78BFA" stroke-opacity="0.07" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="330" rx="24" fill="url(#background)"/>
+  <rect width="1200" height="330" rx="24" fill="url(#grid)"/>
+  <circle cx="1110" cy="-30" r="190" fill="#7C3AED" fill-opacity="0.10"/>
+  <circle cx="1010" cy="345" r="145" fill="#A78BFA" fill-opacity="0.08"/>
+  <text x="72" y="112" fill="#C4B5FD" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="600" letter-spacing="4">DATA • INTELLIGENCE • IMPACT</text>
+  <text x="68" y="181" fill="white" font-family="Segoe UI, Arial, sans-serif" font-size="52" font-weight="700">Maria Eloisa</text>
+  <rect x="72" y="205" width="72" height="4" rx="2" fill="#A78BFA"/>
+  <text x="72" y="254" fill="#DDD6FE" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="400">Data Science &amp; Machine Learning</text>
+  <text x="72" y="286" fill="#A78BFA" font-family="Segoe UI, Arial, sans-serif" font-size="16">Engineering solutions designed around people.</text>
+  <g stroke="url(#accent)" stroke-width="1.5" stroke-opacity="0.65">
+    <path d="M785 96L880 62L962 112L1060 76"/>
+    <path d="M785 96L820 177L914 202L962 112"/>
+    <path d="M820 177L770 253L914 202L1020 266"/>
+    <path d="M914 202L1068 182L1060 76"/>
+    <path d="M962 112L1068 182L1130 132"/>
+    <path d="M1020 266L1068 182"/>
+  </g>
+  <g fill="#C4B5FD" filter="url(#glow)">
+    <circle cx="785" cy="96" r="5"/>
+    <circle cx="880" cy="62" r="4"/>
+    <circle cx="962" cy="112" r="7"/>
+    <circle cx="1060" cy="76" r="4"/>
+    <circle cx="820" cy="177" r="6"/>
+    <circle cx="770" cy="253" r="4"/>
+    <circle cx="914" cy="202" r="8"/>
+    <circle cx="1020" cy="266" r="5"/>
+    <circle cx="1068" cy="182" r="7"/>
+    <circle cx="1130" cy="132" r="4"/>
+  </g>
+  <rect x="0.75" y="0.75" width="1198.5" height="328.5" rx="23.25" stroke="#A78BFA" stroke-opacity="0.25" stroke-width="1.5"/>
+</svg>
