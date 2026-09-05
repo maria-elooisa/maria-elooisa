@@ -51,7 +51,13 @@ data → understanding → intelligent decisions → positive impact
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-4C1D95?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-5B21B6?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-6D28D9?style=for-the-badge&logo=git&logoColor=white)
-![Java](https://img.shields.io/badge/Java-7C3AED?style=for-the-badge&logo=openjdk&logoColor=white)
+
+## Certifications
+
+![Microsoft Certified: Azure Fundamentals](https://img.shields.io/badge/Microsoft_Azure-Certified-4C1D95?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Certified-5B21B6?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+
+Certified in **Microsoft Azure** and **Amazon Web Services (AWS)**, with cloud knowledge that supports my work in Data Science and Machine Learning.
 
 ## Currently exploring
 
