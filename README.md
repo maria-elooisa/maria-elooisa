@@ -54,8 +54,9 @@ data → understanding → intelligent decisions → positive impact
 
 ## Certifications
 
-![Microsoft Certified: Azure Fundamentals](https://img.shields.io/badge/Microsoft_Certified-Azure_Fundamentals-4C1D95?style=for-the-badge&logoColor=white)
-![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS_Certified-Cloud_Practitioner-5B21B6?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+[![Microsoft Certified: Azure Fundamentals](https://img.shields.io/badge/Microsoft_Certified-Azure_Fundamentals-4C1D95?style=for-the-badge)](https://learn.microsoft.com/en-us/users/mariaeloisadasilvasantos-8568/credentials/79e6937ba360f189)
+
+[![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS_Certified-Cloud_Practitioner-5B21B6?style=for-the-badge)](https://www.credly.com/badges/8777102f-09cb-47c9-abbd-67991bc44414/linked_in_profile)
 
 Certified in **Microsoft Azure** and **Amazon Web Services (AWS)**, with cloud knowledge that supports my work in Data Science and Machine Learning.
 
